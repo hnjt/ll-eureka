@@ -27,7 +27,7 @@ eureka:
 #                           -- item --                               #
 ######################################################################
 ll:
-  name: lessons learned
+  name: lessons learned eureka
   # 版本
   version: 1.0.0
   # 版权年份
